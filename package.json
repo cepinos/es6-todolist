@@ -1,0 +1,27 @@
+{
+  "name": "es6-todolist",
+  "version": "1.0.0",
+  "description": "ECMAScript 6 project, intended to learn this standar",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cepinos/es6-todolist.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "@cepinos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cepinos/es6-todolist/issues"
+  },
+  "homepage": "https://github.com/cepinos/es6-todolist#readme"
+}
